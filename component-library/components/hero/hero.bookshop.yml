@@ -23,9 +23,8 @@ blueprint:
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
-  title: Hi there, I am Vanessa Marley
-  description_html: <strong>Photographer</strong> and <strong>Visual Content
-    Strategist</strong> from Albany. I work as a lifestyle, product, and
+  title: Hi there, I am Shubham Garg
+  description_html: <strong>Software Developer</strong> and <strong>Marine Scientist</strong> from Delhi. I work as a lifestyle, product, and
     landscape photographer, creating images for a diverse range of requests,
     from online media to printed artwork.
   image: /images/01.jpg
